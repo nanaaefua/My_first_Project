@@ -3,11 +3,22 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Password db 
+config.py
+
+# Adding additional files.
+api_practice.ipynb_checkpoints
+api_practice.ipynb 
+random_numbers.ipynb
+API KEY
+key.py
+
 # C extensions
 *.so
 
-# Password Files
-config.py
+
+
+
 
 # Distribution / packaging
 .Python
